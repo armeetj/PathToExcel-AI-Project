@@ -1,11 +1,16 @@
 # PathToExcel-AI-Project
 ## Author: @xarmeetx
 
-## __**Copy paste the code into your Jupyter Notebook in this order...**__
-1. JumpPredictEngine.py
-2. FunctionSetup.py
-3. Client.py
-4. DisplayData.py
+## Setup
+1. put all files in a Jupyter Notebook Project Folder
+2. Make sure to keep the names of the csv files the same
+3. Keep the csv files in the same directory as the .py files
+
+4. __Copy paste the code into your Jupyter Notebook in this order...__
+  1. JumpPredictEngine.py
+  2. FunctionSetup.py
+  3. Client.py
+  4. DisplayData.py
 
 ## __**How to run**__
 1. restart kernel every time you want to run
