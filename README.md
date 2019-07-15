@@ -1,5 +1,5 @@
 # PathToExcel-AI-Project
-## Author: @xarmeetx
+## Author: Armeet Singh Jatyani
 
 ## Setup
 1. put all files in a Jupyter Notebook Project Folder
