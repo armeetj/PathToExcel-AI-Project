@@ -1,2 +1,1 @@
-#ignore vs code setup/run files
-.vscode/
+.gitignore
