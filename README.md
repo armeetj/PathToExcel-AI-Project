@@ -8,6 +8,12 @@
 ##### An engine that uses AI to predict the number of lessons a student must jump back. 
 ##### Based, on certain paramaters and the current lesson ID, the engine will return the final lesson ID
 
+### Requests
+address/engine?lessonID=_&momentum=_&proficiency=_&difficulty=_&percent=_
+
+### Responses
+response will be a number, the ID of the lesson to jump to as a String
+
 ## To Run
 #### Install Libraries
 ```
